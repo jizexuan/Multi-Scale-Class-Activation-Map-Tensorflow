@@ -1,0 +1,6 @@
+tensorflow == 1.14.0
+numpy
+matplotlib
+opencv
+pydensecrf
+skimage
